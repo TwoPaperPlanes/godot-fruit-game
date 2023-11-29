@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/wrong_sound_effect.mp3-9979812ecd017748eec49626fe0a6017.mp3str"
+
+[deps]
+
+source_file="res://BGM/wrong_sound_effect.mp3"
+dest_files=[ "res://.import/wrong_sound_effect.mp3-9979812ecd017748eec49626fe0a6017.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
